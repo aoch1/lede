@@ -43,7 +43,7 @@ I18N: [English](README_EN.md) | [简体中文](README.md)
 3. 下载源代码，更新 feeds 并选择配置
 
    ```bash
-   git clone https://github.com/coolsnowwolf/lede
+   git clone https://github.com/aoch1/lede
    cd lede
    ./scripts/feeds update -a
    ./scripts/feeds install -a
